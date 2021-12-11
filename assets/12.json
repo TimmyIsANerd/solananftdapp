@@ -1,19 +1,19 @@
 {
-    "name": "Damsel",
-    "symbol": "",
-    "image": "12.png",
-    "properties": {
-      "files": [
-        {
-          "uri": "12.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "5aDeb7TyijeeBTE3GpczGnDwN95jqeBQGs6LDZk1EUE3",
-          "share": 100
-        }
-      ]
-    }
+  "name": "Damsel",
+  "symbol": "",
+  "image": "12.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "12.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BvpbcamMNJhf576xc3cHhX9YZCAkrcTnPnG6cZ7TvoRD",
+        "share": 100
+      }
+    ]
   }
+}

@@ -1,19 +1,19 @@
 {
-    "name": "Lady Farmer",
-    "symbol": "",
-    "image": "5.png",
-    "properties": {
-      "files": [
-        {
-          "uri": "5.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "5aDeb7TyijeeBTE3GpczGnDwN95jqeBQGs6LDZk1EUE3",
-          "share": 100
-        }
-      ]
-    }
+  "name": "Lady Farmer",
+  "symbol": "",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BvpbcamMNJhf576xc3cHhX9YZCAkrcTnPnG6cZ7TvoRD",
+        "share": 100
+      }
+    ]
   }
+}
