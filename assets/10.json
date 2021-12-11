@@ -1,0 +1,19 @@
+{
+    "name": "Princess",
+    "symbol": "",
+    "image": "10.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "10.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }

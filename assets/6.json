@@ -1,0 +1,19 @@
+{
+    "name": "Witch",
+    "symbol": "",
+    "image": "6.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }

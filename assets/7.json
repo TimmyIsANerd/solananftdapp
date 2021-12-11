@@ -1,0 +1,19 @@
+{
+    "name": "Young Girl",
+    "symbol": "",
+    "image": "7.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }

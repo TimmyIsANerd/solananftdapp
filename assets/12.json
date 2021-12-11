@@ -1,0 +1,19 @@
+{
+    "name": "Damsel",
+    "symbol": "",
+    "image": "12.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "12.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }

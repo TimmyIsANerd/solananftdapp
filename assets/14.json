@@ -1,0 +1,19 @@
+{
+    "name": "Beautiful Young lady",
+    "symbol": "",
+    "image": "14.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "14.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }

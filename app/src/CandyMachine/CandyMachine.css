@@ -1,6 +1,11 @@
 .machine-container {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.machine-container *{
+  margin:5px 0;
 }
 
 .gif-container {
@@ -11,8 +16,9 @@
 .gif-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  grid-gap: 1.5rem;
+  grid-gap: 1.2rem;
   justify-items: center;
+  grid-auto-flow: column;
   margin: 0;
   padding: 20px 0 20px 0;
 }

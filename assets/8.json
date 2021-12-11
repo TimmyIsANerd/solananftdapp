@@ -1,0 +1,19 @@
+{
+    "name": "Old Man",
+    "symbol": "",
+    "image": "8.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "GgptANNs3gy16a3psEPpottLFN1xqUU826drAxjyJs27",
+          "share": 100
+        }
+      ]
+    }
+  }
